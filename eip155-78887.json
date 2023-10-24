@@ -1,0 +1,24 @@
+{
+  "name": "LungDeFi Smartchain",
+  "title": "LungDeFi Mainnet",
+  "chain": "LUNG",
+  "rpc": ["https://rpc.lunagens.com"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "LUNG",
+    "symbol": "LUNG",
+    "decimals": 18
+  },
+  "infoURL": "lunagens.com",
+  "shortName": "LUNG",
+  "chainId": 78887,
+  "networkId": 78887,
+  "icon": "lung",
+  "explorers": [
+    {
+      "name": "lungscan",
+      "url": "https://lunagens.info",
+      "standard": "EIP3091"
+    }
+  ]
+}
